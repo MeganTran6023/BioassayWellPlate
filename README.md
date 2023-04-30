@@ -25,8 +25,10 @@ Some features I hope to implement in this program is that the user can color cod
 ### Credits
 I referred to the links below to create my spreadsheet and the widgets:
 
-
+Thanks to Ryan Noonam for providing introductions on how to set up a spreadsheet on Jupyter Notebook
 > https://youtu.be/fKKtO1w77bg
 > https://www.youtube.com/watch?v=HY7cf-CYs1o
+
+
 Thanks to Maxivellz for providing the code for embedding the dropdown menu into the spreadsheet.
 > https://stackoverflow.com/questions/72942721/how-to-embed-a-dropdown-ipywidget-in-an-ipysheet-spreadsheet
