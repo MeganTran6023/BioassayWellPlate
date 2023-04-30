@@ -7,6 +7,7 @@ by Megan Tran
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [How to Use the Program](#How-to-Use-the-Program)
+
 ## Purpose of Program
 
 I created this spreadsheet to mimic the layout of a 96- well plate for the Baker Research Group, a lab I am an undergraduate research assistant for. This program allows members of the lab to fill out what wells of the plate they put their sample in, which lets others know whose sample is where before sending the plate off for bioassay. 
