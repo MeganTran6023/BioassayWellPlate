@@ -18,9 +18,10 @@ Some features I hope to implement in this program is that the user can color cod
 
 ## Technologies
 
-Languages/Enviromnets used
+Languages/Enviroments used
 
 Jupyter Notebook 6.5.2
+
 Python 3.10.9
 
 ## Setup
