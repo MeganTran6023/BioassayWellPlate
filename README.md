@@ -39,6 +39,12 @@ jupyter notebook
 ```
 ## How to Use the Program
 
+Below is the image of the spreadsheet that is modelled similar to the structure of a well- plate:
+<img width="743" alt="image" src="https://user-images.githubusercontent.com/68253811/235381449-2b75d716-6f6f-4909-94af-e3e5729bcea4.png">
+Simply click on any cell to bring down a list of names and choose the name of your choice to fill in a spot on the well-plate.
+
+The run interact button brings up a diagram of a sample 96 well-plate for reference.
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/68253811/235382342-ebbf2cac-7c72-4851-ac7b-a83489a370fa.gif)
 ### Credits
 I referred to the links below to create my spreadsheet and the widgets:
 
